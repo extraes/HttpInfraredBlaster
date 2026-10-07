@@ -7,3 +7,6 @@ build-*
 build_*
 .DS_Store
 *.pdf
+
+flipper infrared folder/**
+*.ir
